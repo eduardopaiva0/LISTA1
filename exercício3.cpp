@@ -10,5 +10,5 @@ int main(){
 	area = (diagonal*diagonal)/2;
 	
 	cout << "A area o quadrado de diagonal " << diagonal << " eh: " << area;
-	
+	return 0;
 }

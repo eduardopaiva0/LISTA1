@@ -13,4 +13,5 @@ int main(){
 	
 	area = altura * base;
 	cout << "A area do retangulo torna-se: " << area << endl;
+	return 0;
 }

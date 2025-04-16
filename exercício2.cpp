@@ -11,4 +11,5 @@ int main(){
 	area = aresta*aresta;
 	
 	cout << "A area de um quadrado que tem a aresta de " << aresta << " eh " << area;
+	return 0;
 }
