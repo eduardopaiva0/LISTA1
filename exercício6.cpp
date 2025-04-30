@@ -12,4 +12,5 @@ int main(){
 	mediaGeo = sqrt(num1 * num2);
 	
 	cout << "A media geometrica dos valores digitados eh: " << mediaGeo;
+	return 0;
 }
