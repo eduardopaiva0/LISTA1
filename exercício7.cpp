@@ -2,12 +2,12 @@
 using namespace	std;
 
 int main(){
-	double milhasMarit, mMparaKm;
+	double milhasMarit, mMParaKm;
 
 	cout << "Digite a quantidade de milhas maritimas: ";
 	cin >> milhasMarit;
-	mMparaKm = milhasMarit * 1.852;
+	mMParaKm = milhasMarit * 1.852;
 	
-	cout << "O valor digitado convertido para quilometros eh: " << mMparaKm << " km";
+	cout << "O valor digitado convertido para quilometros eh: " << mMParaKm << " km";
 	return 0;
 }
